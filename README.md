@@ -36,7 +36,7 @@ git clone https://github.com/alrawii2/hospital-managemen-systems-PHASE-2.git
 ```
 
 ```bash
-cd hospital-management-system-
+cd hospital-managemen-systems-PHASE-2
 ```
 
 ```bash
