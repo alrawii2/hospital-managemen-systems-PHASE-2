@@ -8,9 +8,7 @@ Built across two iterative phases for the **Software Architecture** course.
 
 - **Phase 1 (delivered 4 May 2026):** architecture design + initial implementation
 - **Phase 2 (delivered 21 May 2026):** development & deployment views + production deployment
-- **Phase 2.1 (delivered 17 May 2026):** patient cancellation, doctor availability,
-  Room model, expanded dataset
-
+  
 The architecture follows **Kruchten's 4+1 view model** and is realized in the
 **Model–View–Controller (MVC) + REST API** style: React 18 SPA frontend
 communicating with a Django 5 + Django REST Framework backend.
